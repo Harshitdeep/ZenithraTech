@@ -30,6 +30,9 @@ An Android application built with **Jetpack Compose**, **MVVM + Clean Architectu
 
 [📥 Download APK from Google Drive](https://drive.google.com/file/d/1tP1oqVv3FldMyAeYyL1x10Gf-Vki18Yj/view?usp=sharing)
 
+## 🎥 Demo Video
+
+[▶️ Watch the Demo on Google Drive](https://drive.google.com/file/d/13xubQf9Xo-rfkP1x5utJfJfvqJJsdCo0/view?usp=sharing)
 
 
 ## 🧱 Tech Stack
